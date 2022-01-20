@@ -20,7 +20,7 @@
 - 需要安装对应的网卡驱动
 - 不能用隔空投送
 - 驱动安装方面可以参考另一个仓库 
- github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter
+ https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter
 
 ## EFI文件说明
 将根目录下的EFI文件夹放到对应的EFI分区即可
